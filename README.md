@@ -1,5 +1,5 @@
 ## Template for a very compact LaTeX Cheatsheet
 
-![page 1](https://i.stack.imgur.com/jEcrv.png)
+Cheatsheet I made for my exam in "Betriebssysteme".
 
-![page 2](https://i.stack.imgur.com/jq4dI.png)
+![PDF of Bsys cheatsheet](https://github.com/WitteShadovv/bsys-cheatsheet/blob/master/bsys_cheatsheet.pdf)
